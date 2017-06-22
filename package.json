@@ -18,12 +18,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/hornsten/sequelizedBurger.git"
+        "url": "git+https://github.com/noelsimonson/sequelizedBurger.git"
     },
-    "author": "Jessica Hornsten",
-    "license": "MIT",
+    "author": "Noel Simonson",
+    "license": "",
     "bugs": {
-        "url": "https://github.com/hornsten/sequelizedBurger/issues"
+        "url": "https://github.com/noelsimonson/sequelizedBurger.git"
     },
-    "homepage": "https://github.com/hornsten/sequelizedBurger#readme"
+    "homepage": "https://github.com/noelsimonson/sequelizedBurger#readme"
 }
