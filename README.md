@@ -17,5 +17,4 @@ When the user inputs a new burger, the burger is inserted into the database.  Bu
 * method-override
 * mysql
 * Sequelize
-* Materialize CSS
-* JawsDB
+* Material CSS
