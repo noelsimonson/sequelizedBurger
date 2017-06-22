@@ -2,8 +2,6 @@
 A Sequelize version of my Fancy Burger app, incorporating Node/Express.js/MySQL/Handlebars/ORMs
 
 
-## Home Page
-![app image](/public/assets/img/fancy-burger.png?raw=true "App Image")
 
 
 ## Description
